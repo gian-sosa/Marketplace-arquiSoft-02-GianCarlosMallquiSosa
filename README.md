@@ -1,5 +1,5 @@
 # Marketplace de productos para mascotas
-## nombre
+## Nombre
 Gian Carlos Mallqui Sosa
 ## Descripción
 Marketplace académico de productos para mascotas.
