@@ -1,6 +1,6 @@
 # Marketplace de productos para mascotas
 ## Nombre
-Gian Carlos Mallqui Sosa
+Est. Gian Carlos Mallqui Sosa. Cod: 27160114
 ## Descripción
 Marketplace académico de productos para mascotas.
 ## Caso de estudio
