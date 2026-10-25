@@ -6,6 +6,6 @@ Docente: Lizbeth Jaico
 ## Descripción
 Marketplace académico de productos para mascotas.
 ## Caso de estudio
-GoPet como referencia funcional.
+Web Interactiva Zoológico Totorilla
 ## Curso
 Arquitectura de Software IS488
