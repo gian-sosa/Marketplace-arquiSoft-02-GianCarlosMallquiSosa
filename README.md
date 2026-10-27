@@ -8,4 +8,4 @@ Marketplace académico de productos para mascotas.
 ## Caso de estudio
 Web Interactiva Zoológico Totorilla
 ## Curso
-Arquitectura de Software IS488
+Arquitectura de Software IS-488 2026-II
